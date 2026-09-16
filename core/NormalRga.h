@@ -40,6 +40,7 @@
 #include <utils/Thread.h>
 #include <hardware/hardware.h>
 #endif
+#include <hardware/hardware_rockchip.h>
 
 #include "drmrga.h"
 #include "rga.h"
